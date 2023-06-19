@@ -1,0 +1,6 @@
+[submodule "docs/gira3d-benchmarking-docs"]
+	path = docs/gira3d-benchmarking-docs
+	url = git@github.com:gira3d/gira3d-benchmarking-docs.git
+[submodule "docs/gira3d-reconstruction-docs"]
+	path = docs/gira3d-reconstruction-docs
+	url = git@github.com:gira3d/gira3d-reconstruction-docs.git
