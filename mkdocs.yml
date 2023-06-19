@@ -16,7 +16,13 @@ repo_url: 'https://github.com/gira3d/gira3d-docs'
 
 nav:
   - Home: 'README.md'
-  - Tutorials:
+  - Reconstruction Tutorials:
     - 'Point Cloud Modeling using SOGMM' : 'gira3d-reconstruction-docs/tutorials/sogmm-tut/sogmm-tut.ipynb'
     - 'Python Binding over OctoMap' : 'gira3d-benchmarking-docs/tutorials/octomap-py-tut/octomap-py-tut.ipynb'
     - 'Python Binding over NDTMap' : 'gira3d-benchmarking-docs/tutorials/ndtmap-py-tut/ndtmap-py-tut.ipynb'
+  - Registration Tutorials:
+    - 'MATLAB' : 'gira3d-registration-docs/tutorials/matlab/matlab.md'
+    - 'Python' : 'gira3d-registration-docs/tutorials/python/python.md'
+  - Occupancy Modeling Tutorials:
+    - 'MATLAB' : 'gira3d-occupancy-modeling-docs/tutorials/matlab/matlab.md'
+    - 'Python' : 'gira3d-occupancy-modeling-docs/tutorials/python/python.md'

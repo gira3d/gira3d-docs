@@ -4,3 +4,9 @@
 [submodule "docs/gira3d-reconstruction-docs"]
 	path = docs/gira3d-reconstruction-docs
 	url = git@github.com:gira3d/gira3d-reconstruction-docs.git
+[submodule "docs/gira3d-registration-docs"]
+	path = docs/gira3d-registration-docs
+	url = git@github.com:gira3d/gira3d-registration-docs.git
+[submodule "docs/gira3d-occupancy-modeling-docs"]
+	path = docs/gira3d-occupancy-modeling-docs
+	url = git@github.com:gira3d/gira3d-occupancy-modeling-docs.git
