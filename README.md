@@ -5,10 +5,6 @@
     <a href="https://github.com/gira3d/gira3d-docs/blob/master/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
     <br />
     <br />
-    <a href="https://github.com/gira3d/gira3d-docs/edit/master/README.md#build">Build</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://github.com/gira3d/gira3d-docs/edit/master/README.md#install">Install</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="https://arxiv.org/pdf/2003.13883.pdf">Paper</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href=https://github.com/gira3d/gira3d-docs/issues>Contact Us</a>
