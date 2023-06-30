@@ -1,9 +1,5 @@
 <div align="center">
     <h1>GIRA: Gaussian Mixture Models for Inference and Robot Autonomy</h1>
-    <a href="https://github.com/gira3d/gira3d-docs/releases"><img src="https://img.shields.io/github/v/release/gira3d/gira3d-docs?label=version" /></a>
-    <a href="https://github.com/gira3d/gira3d-docs/blob/master/LICENSE"><img src="https://img.shields.io/github/license/gira3d/gira3d-docs" /></a>
-    <a href="https://github.com/gira3d/gira3d-docs/blob/master/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
-    <br />
     <br />
     <a href="https://arxiv.org/pdf/2003.13883.pdf">Paper</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
