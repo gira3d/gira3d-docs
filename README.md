@@ -5,13 +5,13 @@
     <a href="https://github.com/gira3d/gira3d-docs/blob/master/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
     <br />
     <br />
-    <a href="https://arxiv.org/pdf/2003.13883.pdf">Paper</a>
+    <a href="[https://arxiv.org/pdf/2003.13883.pdf](https://arxiv.org/pdf/2307.00071.pdf)">Paper</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href=https://github.com/gira3d/gira3d-docs/issues>Contact Us</a>
   <br />
   <br />
 
-[GIRA3D](https://arxiv.org/pdf/2003.13883.pdf) is an open-source framework for compact, high-resolution point
+[GIRA3D](https://arxiv.org/pdf/2307.00071.pdf) is an open-source framework for compact, high-resolution point
 cloud modeling using Gaussian mixture models that provides fundamental robotics capabilities, including
 reconstruction, pose estimation, and occupancy modeling.
 </div>
